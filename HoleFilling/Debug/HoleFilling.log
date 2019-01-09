@@ -1,0 +1,8 @@
+﻿  Coordinate.cpp
+c:\users\asher\source\repos\holefilling\holefilling\coordinate.cpp(39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Image.cpp
+  Pixel.cpp
+c:\users\asher\source\repos\holefilling\holefilling\pixel.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\asher\source\repos\HoleFilling\Debug\HoleFilling.exe : fatal error LNK1120: 1 unresolved externals
